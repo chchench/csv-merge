@@ -1,0 +1,1 @@
+#pragma oncevoid	itoa(int n, char s[]);void	ltoa(long n, char s[]);void	reverse(char s[]);Boolean	AlphaLess(char s1[], char s2[]);Boolean IsLess(char s1[], char s2[], Boolean option);Boolean IsNumber(char s[]);Ptr		StringEnd(Ptr beginning);

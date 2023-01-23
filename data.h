@@ -1,0 +1,1 @@
+#pragma oncetypedef char	string[30];typedef string	line[50];void	DataInit1(void);void	InsertLine1(line	theLine);Boolean	MatchLine1(line inputLine, line	theLine);void	LookupLine1(int lineNumber, line theLine);

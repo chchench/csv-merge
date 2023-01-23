@@ -1,0 +1,1 @@
+#pragma oncevoid	WriteMatch(line line1, line line2, int lineLength1, int lineLength2);void	WriteOne(line theLine, int lineLength1, int lineLength2);void	WriteTwo(line theLine, int lineLength1, int lineLength2);void	WriteLabel(line line1, line line2, int lineLength1, int lineLength2);

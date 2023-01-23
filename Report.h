@@ -1,0 +1,1 @@
+#pragma oncevoid	DoReport(void);
